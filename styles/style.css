@@ -6,7 +6,7 @@ body{
 .menu{
   display: flex;
   justify-content: space-between;
-  margin: 18px 80px;
+  margin: 28px 80px;
 }
 
 h2{
