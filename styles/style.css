@@ -63,3 +63,31 @@ h2{
 .entrar{
   color: #667085;
 }
+
+.main-menu-texts{
+  height: 407px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.about-us{
+  font-weight: 600;
+  color:#8E2424;
+}
+
+.main-title{
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.main-text {
+    font-size: 20px;
+    font-weight: 400;
+    color: #667085;
+    width: 792px;
+    text-align: center;
+    margin: 0 auto;
+}
